@@ -43,3 +43,5 @@ Visualizing weather trends for any city
 Understanding temperature variations across days
 
 Useful for academic projects, data analysis tasks, dashboards, and weather-based decision making
+
+*output*:<img width="1905" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ddcd8d4e-23aa-4c2f-90fa-5de5629ca252" />
