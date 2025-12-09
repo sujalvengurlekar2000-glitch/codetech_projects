@@ -132,4 +132,5 @@ Early detection of malicious links or harmful content.
 
 
 *OUTPUT*:<img width="621" height="720" alt="Image" src="https://github.com/user-attachments/assets/fe6d280f-c4da-4229-860f-6cb1f91e6be3" />
+        <img width="576" height="705" alt="Image" src="https://github.com/user-attachments/assets/c4087198-30ed-44f6-b7ac-885701b973d1" />
 
