@@ -14,7 +14,7 @@
 
 *TASK_3 DISCRIPTION*
 
-NLP Chatbot – Project Description (Short & Professional)
+NLP Chatbot – Project Description 
 
 This project is a simple Rule-Based NLP Chatbot built using Python and the NLTK library as part of the CODTECH Python Internship Task 3.
 The chatbot interacts with the user through predefined patterns and responses using regular expressions. 
@@ -67,3 +67,5 @@ Prototypes before building advanced AI chatbots
 Academic / internship / mini project submissions
 
 Simple automation of repeated customer queries
+
+*OUTPUT*:<img width="1247" height="469" alt="Image" src="https://github.com/user-attachments/assets/b91f3d5f-6b37-4ca8-aef9-9de9d2937de2" />
