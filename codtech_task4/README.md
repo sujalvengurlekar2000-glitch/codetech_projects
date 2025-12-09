@@ -131,4 +131,5 @@ Complaint categorization
 Early detection of malicious links or harmful content.
 
 
-*OUTPUT*:
+*OUTPUT*:<img width="621" height="720" alt="Image" src="https://github.com/user-attachments/assets/fe6d280f-c4da-4229-860f-6cb1f91e6be3" />
+
