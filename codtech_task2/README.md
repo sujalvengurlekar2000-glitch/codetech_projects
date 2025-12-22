@@ -115,3 +115,6 @@ Individual student performance
 This project demonstrates how Python can be used to automate report generation by combining data analysis and document creation. 
 It reduces manual effort, improves accuracy, and produces professional reports efficiently. 
 The use of libraries like pandas and reportlab makes the system flexible and scalable for real-world applications.
+
+# Output
+<img width="1783" height="988" alt="Image" src="https://github.com/user-attachments/assets/8d47d34e-b42c-454b-b597-07b3a65ad0c8" />
